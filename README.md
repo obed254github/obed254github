@@ -30,7 +30,7 @@
 ### 🧬 Breast Cancer Predictor
 
 > A diagnostic app using CatBoost to classify tumors as benign or malignant  
-> [🔗 Live App](https://your-deployment-link) | [📂 Code](https://github.com/obed254github/breast-cancer-detection)  
+> [🔗 Live App](https://breast-cancer-detection-iw4xkj8d9vzatwzyk9hsta.streamlit.app/) | [📂 Code](https://github.com/obed254github/breast-cancer-detection)  
 > ![Model](images/catboost_confusion_matrix.png)
 
 ---
