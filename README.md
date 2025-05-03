@@ -1,16 +1,72 @@
-## Hi there 👋
+# 👋 Hi, I'm Obadiah Kiptoo
 
-<!--
-**obed254github/obed254github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS in Data Science & Analytics @ Grand Valley State University, Michigan U.S.A  
+📍 Currently: Data Analyst | Data scientist | ML Enthusiast  
+🌍 From Kenya | Based in the U.S.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I have worked On
+
+- 🧬 **Breast Cancer Diagnosis App** using CatBoostClassifier & Streamlit
+- 🚗 **Car Price data ETL Pipeline and Visualization** with PostgreSQL, Power BI & XGBoost
+- 📊 **US Socioeconomic Dashboard** built with R, Flexdashboard, and Plotly
+- 📝 **Sentiment Analysis** of restaurant reviews using `tidytext` & `syuzhet` packages in R
+
+---
+
+## 🧰 Tools & Technologies
+
+**Languages:** Python, R, SQL  
+**ML & Data Science:** Scikit-learn, CatBoost, XGBoost, LightGBM  
+**Visualization:** Power BI, ggplot2, Plotly, Tableau, Streamlit  
+**Data Handling:** Pandas, Tidyverse, PostgreSQL, Kestra  
+**DevOps:** Git, GitHub, Docker, YAML
+
+---
+
+## 📂 Featured Projects
+
+### 🧬 Breast Cancer Predictor
+
+> A diagnostic app using CatBoost to classify tumors as benign or malignant  
+> [🔗 Live App](https://your-deployment-link) | [📂 Code](https://github.com/obed254github/breast-cancer-predictor)  
+> ![Model](images/catboost_confusion_matrix.png)
+
+---
+
+### 🚗 Car Sales ETL Pipeline
+
+> Full ETL pipeline with feature engineering, ETL via Kestra, and Power BI dashboard  
+> [📂 Code](https://github.com/obed254github/car-sales-ml-pipeline)  
+> ![Dashboard](images/car_dashboard.png)
+
+---
+
+<!-- ### 📊 US Economic & Housing Dashboard
+> R Flexdashboard visualizing poverty, income, and rent trends across states
+[📂 Code](https://github.com/yourusername/us-census-dashboard)
+![R Dashboard](images/flexdashboard_us.png) -->
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=obed254github&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obed254github&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/obadiah-kiptoo-85480b175)
+- 📨 Email: obadiahkiptoo1998@gmail.com
+
+---
+
+_“Turning data into insight, and insight into action.”_
