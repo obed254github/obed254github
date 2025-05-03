@@ -30,16 +30,23 @@
 ### 🧬 Breast Cancer Predictor
 
 > A diagnostic app using CatBoost to classify tumors as benign or malignant  
-> [🔗 Live App](https://your-deployment-link) | [📂 Code](https://github.com/obed254github/breast-cancer-predictor)  
+> [🔗 Live App](https://your-deployment-link) | [📂 Code](https://github.com/obed254github/breast-cancer-detection)  
 > ![Model](images/catboost_confusion_matrix.png)
 
 ---
 
 ### 🚗 Car Sales ETL Pipeline
 
-> Full ETL pipeline with feature engineering, ETL via Kestra, and Power BI dashboard  
+> Full ETL pipeline with feature engineering, ETL orchestration via Kestra, and Power BI dashboard  
 > [📂 Code](https://github.com/obed254github/car-sales-ml-pipeline)  
-> ![Dashboard](images/car_dashboard.png)
+> ![Dashboard](images/car_sales_dashboard.png)
+
+---
+
+### Sentiment analysis of restaurant reviews
+
+> Sentiment analysis of restaurant reviews involves using natural language processing (NLP) techniques to determine whether a review expresses a positive, negative, or neutral sentiment.
+> [📂 Code](https://github.com/obed254github/Restaurant-Sentiment-Analysis-in-R) > ![Sentiments](images/sentiment_analysis.png)
 
 ---
 
@@ -50,7 +57,7 @@
 
 ---
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=obed254github&show_icons=true&theme=default" alt="GitHub Stats" />
@@ -58,7 +65,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obed254github&layout=compact" alt="Top Languages" />
-</p>
+</p> -->
 
 ---
 
