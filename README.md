@@ -29,7 +29,7 @@ I enjoy working through the full lifecycle of any data related problem from ML p
 
 ## 🧰 Tools & Technologies
 
-**Languages:** Python| R| SQL|Javascript  
+**Languages:** Python| R| PotgreSQL|Javascript|HTML|CSS 
 **ML & Data Science:** Scikit-learn| XGBoost| LightGBM|CatBoost|caret|e1071|rpart|tidymodels  
 **Visualization:** Power BI| ggplot2| Plotly| Tableau| Streamlit|FlexDashboards  
 **Data Handling:** Pandas| Tidyverse| PostgreSQL| Kestra|Google sheets|Excel  
@@ -83,7 +83,7 @@ I enjoy working through the full lifecycle of any data related problem from ML p
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/obadiah-kiptoo-85480b175)
+- 💼 [LinkedIn](https://linkedin.com/in/obadiah-kiptoo-85480b175)
 - 📨 Email: obadiahkiptoo1998@gmail.com
 
 ---
