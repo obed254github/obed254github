@@ -83,7 +83,7 @@ I enjoy working through the full lifecycle of any data related problem from ML p
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/obadiah-kiptoo-85480b175)
+- 💼 [LinkedIn](https://linkedin.com/in/obadiah-kiptoo-85480b175)
 - 📨 Email: obadiahkiptoo1998@gmail.com
 
 ---
