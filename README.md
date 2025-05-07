@@ -1,31 +1,43 @@
 # 👋 Hi, I'm Obadiah Kiptoo
 
 🎓 MS in Data Science & Analytics @ Grand Valley State University, Michigan U.S.A  
-📍 Currently: Data Analyst | Data scientist | ML Enthusiast  
-🌍 From Kenya | Based in the U.S.
+🎓 BSc in Applied Statistics with Computingv@ Moi University, Kenya
+📍 Currently: Freelance Data Analyst | Student Data scientist | ML Enthusiast  
+🌍 From Kenya | Student Based in the U.S.A
+
+---
+
+I have a strong foundation in Statistics from my undergraduate degree in applied statistics with computing. My MSc in Data Science and Analytics builds on my existing statistics knowledge by integrating my statistical rigor with Machine learning and big data tools.
+I'm passionate about machine learning and excited wth applying ML knowledge to solve meaningful problems.
+I enjoy working through the full lifecycle of any data related problem from ML projects to uncovering underlying data insights. I am open to new challenges and collaborations, feel free to reach out to me
+
+---
+
+## 🧑🏻‍🍳 Currently working on
+
+- **Insurance charges prediction streamlit app - Partnering with Build Fellowship** Building a ML powered streamlit app that predicts an inidividual health insurance charges based on lifestyle and personal factors. I also engineered features by creating new features such as bmi_smoker to enhance predictive accuracy of the models. Fitting and training Linear regression model, Random Forest regressor, XGBoost regressor and LightGBM model.
 
 ---
 
 ## 🚀 What I have worked On
 
-- 🧬 **Breast Cancer Diagnosis App** using CatBoostClassifier & Streamlit
-- 🚗 **Car Price data ETL Pipeline and Visualization** with PostgreSQL, Power BI & XGBoost
-- 📊 **US Socioeconomic Dashboard** built with R, Flexdashboard, and Plotly
-- 📝 **Sentiment Analysis** of restaurant reviews using `tidytext` & `syuzhet` packages in R
+- 🧬 **Breast Cancer Diagnosis App**: Classification of breast lumps as malignant or benign using the wisconsin breast cancer dataset. Used Logistic regression and CatBoostClassifier model for advanced boosting. Deployed my optimal model using streamlit. Developed an alternative app using Javascript for frontend development, FLASK API to access and retrieve predictions fro deployed model, HTML and CSS for styling, and axios to send requests to the API and receive predictions in form of JSON objects.
+- 🚗 **Car Price data ETL Pipeline and Visualization**: Used docker for containeriation,PostgreSQL for data storage, Kestra to facilitate data orchestration, Python for scripting Extraction Transformation and Data Loading, and Power BI for data Visualization.
+- 📝 **Sentiment Analysis** of restaurant reviews using `tidytext`, `syuzhet`, `textdata`, `dplyr`, and `flextable` packages in R.
 
 ---
 
 ## 🧰 Tools & Technologies
 
-**Languages:** Python, R, SQL  
-**ML & Data Science:** Scikit-learn, CatBoost, XGBoost, LightGBM  
-**Visualization:** Power BI, ggplot2, Plotly, Tableau, Streamlit  
-**Data Handling:** Pandas, Tidyverse, PostgreSQL, Kestra  
-**DevOps:** Git, GitHub, Docker, YAML
+**Languages:** Python| R| SQL|Javascript  
+**ML & Data Science:** Scikit-learn| XGBoost| LightGBM|CatBoost|caret|e1071|rpart|tidymodels  
+**Visualization:** Power BI| ggplot2| Plotly| Tableau| Streamlit|FlexDashboards  
+**Data Handling:** Pandas| Tidyverse| PostgreSQL| Kestra|Google sheets|Excel  
+**DevOps:** Git| GitHub| Docker
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 ### 🧬 Breast Cancer Predictor
 
