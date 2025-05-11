@@ -15,11 +15,14 @@ I enjoy working through the full lifecycle of any data related problem from ML p
 
 ## 🧑🏻‍🍳 Currently working on
 
-- **Insurance charges prediction streamlit app - Partnering with Build Fellowship** Building a ML powered streamlit app that predicts an inidividual health insurance charges based on lifestyle and personal factors. I also engineered features by creating new features such as bmi_smoker to enhance predictive accuracy of the models. Fitting and training Linear regression model, Random Forest regressor, XGBoost regressor and LightGBM model.
+- **Udemy course on Machine Learning and Deep learning** - 
 
 ---
 
 ## 🚀 What I have worked On
+
+- **Insurance charges prediction streamlit app - Partnering with Build Fellowship** Building a ML powered streamlit app that predicts an inidividual health insurance charges based on lifestyle and personal factors. I also engineered features by creating new features such as bmi_smoker to enhance predictive accuracy of the models. Fitting and training Linear regression model, Random Forest regressor, XGBoost regressor and LightGBM model. 
+[Live app](https://health-insurance-app-app-zks4tkjnbak6wcycvr5b76.streamlit.app/)
 
 - 🧬 **Breast Cancer Diagnosis App**: Classification of breast lumps as malignant or benign using the wisconsin breast cancer dataset. Used Logistic regression and CatBoostClassifier model for advanced boosting. Deployed my optimal model using streamlit. Developed an alternative app using Javascript for frontend development, FLASK API to access and retrieve predictions fro deployed model, HTML and CSS for styling, and axios to send requests to the API and receive predictions in form of JSON objects.
 - 🚗 **Car Price data ETL Pipeline and Visualization**: Used docker for containeriation,PostgreSQL for data storage, Kestra to facilitate data orchestration, Python for scripting Extraction Transformation and Data Loading, and Power BI for data Visualization.
