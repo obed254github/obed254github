@@ -51,6 +51,7 @@ I enjoy working through the full lifecycle of any data related problem from ML p
 
 > [Live app](https://health-insurance-app-app-zks4tkjnbak6wcycvr5b76.streamlit.app/) | [📂 Code](https://github.com/obed254github/health-insurance-streamlit-app)
 > ![Model](images/health_insurance.png)
+---
 
 ### 🧬 Breast Cancer Predictor
 
