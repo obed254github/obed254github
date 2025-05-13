@@ -47,7 +47,8 @@ I enjoy working through the full lifecycle of any data related problem from ML p
 
 > A user-friendly Streamlit web application that predicts individual health insurance charges based on demographic and lifestyle information. Built using Random Forest, with support for other models like Linear Regression, LightGBM, and XGBoost for comparison.
 > Data analysis page that describes all procedures taken in data analysis and determination of optimal model deployed for predictions.
-> [Live app](https://health-insurance-app-app-zks4tkjnbak6wcycvr5b76.streamlit.app/) | [📂 Code](https://github.com/obed254github/health-insurance-streamlit-app) > ![app](images/health_insurance.png)
+> [Live app](https://health-insurance-app-app-zks4tkjnbak6wcycvr5b76.streamlit.app/) | [📂 Code](https://github.com/obed254github/health-insurance-streamlit-app)
+> ![app](images/health_insurance.png)
 
 ### 🧬 Breast Cancer Predictor
 
