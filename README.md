@@ -16,7 +16,7 @@ I enjoy working through the full lifecycle of any data related problem from ML p
 ## 🧑🏻‍🍳 Currently working on
 
 - **Udemy Data Science Boot camp by 365 Careers**
-- 
+  
 
 ---
 
