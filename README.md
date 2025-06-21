@@ -13,14 +13,7 @@ I enjoy working through the full lifecycle of any data related problem from ML p
 
 ---
 
-## 🧑🏻‍🍳 Currently working on
-
-- **Udemy Data Science Boot camp by 365 Careers**
-  
-
----
-
-## 🚀 What I have worked On
+<!-- ## 🚀 Projects
 
 - **Insurance charges prediction streamlit app - Partnering with Build Fellowship** Building a ML powered streamlit app that predicts an inidividual health insurance charges based on lifestyle and personal factors. I also engineered features by creating new features such as bmi_smoker to enhance predictive accuracy of the models. Fitting and training Linear regression model, Random Forest regressor, XGBoost regressor and LightGBM model.
   [Live app](https://health-insurance-app-app-zks4tkjnbak6wcycvr5b76.streamlit.app/)
@@ -29,7 +22,7 @@ I enjoy working through the full lifecycle of any data related problem from ML p
 - 🚗 **Car Price data ETL Pipeline and Visualization**: Used docker for containeriation,PostgreSQL for data storage, Kestra to facilitate data orchestration, Python for scripting Extraction Transformation and Data Loading, and Power BI for data Visualization.
 - 📝 **Sentiment Analysis** of restaurant reviews using `tidytext`, `syuzhet`, `textdata`, `dplyr`, and `flextable` packages in R.
 
----
+--- -->
 
 ## 🧰 Tools & Technologies
 
