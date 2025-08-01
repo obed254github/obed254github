@@ -7,7 +7,7 @@
 
 ---
 
-I have a strong foundation in Statistics from my undergraduate degree in applied statistics with computing. My MSc in Data Science and Analytics builds on my existing statistics knowledge by integrating my statistical rigor with Machine learning and big data tools.
+I have a strong foundation in Statistics from my undergraduate degree in applied statistics with computing. My MSc in Data Science and Analytics builds on my existing statistics knowledge by integrating my statistical rigor with Machine learning, data analytics and big data tools.
 I'm passionate about machine learning and excited wth applying ML knowledge to solve meaningful problems.
 I enjoy working through the full lifecycle of any data related problem from ML projects to uncovering underlying data insights. I am open to new challenges and collaborations, feel free to reach out to me
 
