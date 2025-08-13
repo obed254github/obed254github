@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Obadiah Kiptoo
 
 🎓 MS in Data Science & Analytics @ Grand Valley State University, Michigan U.S.A  
-🎓 BSc in Applied Statistics with Computingv@ Moi University, Kenya  
+🎓 BSc in Applied Statistics with Computing @ Moi University, Kenya  
 💡 Currently: Freelance Data Analyst | Student Data scientist | ML Enthusiast  
 🌍 From Kenya | Student Based in the U.S.A
 
