@@ -27,7 +27,7 @@ I enjoy working through the full lifecycle of any data related problem from ML p
 ## 🧰 Tools & Technologies
 
 **Languages:** Python| R| PotgreSQL|Javascript|HTML|CSS 
-**ML & Data Science:** Scikit-learn| XGBoost| LightGBM|CatBoost|caret|e1071|rpart|tidymodels  
+**ML & Data Science:** Scikit-learn| XGBoost|TensorFlow|LightGBM|CatBoost|caret|e1071|rpart|tidymodels|Large Language moodels fine tuning|Neural networks|predictive Analytics  
 **Visualization:** Power BI| ggplot2| Plotly| Tableau| Streamlit|FlexDashboards  
 **Data Handling:** Pandas| Tidyverse| PostgreSQL| Kestra|Google sheets|Excel  
 **DevOps:** Git| GitHub| Docker
